@@ -1,0 +1,12 @@
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\ConectarDatos.dll
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\ConectarDatos.pdb
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\EntityFramework.dll
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\EntityFramework.xml
+D:\Sistemas\WebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sistemas\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.AssemblyReference.cache
+D:\Sistemas\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+D:\Sistemas\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+D:\Sistemas\WebApi\ConectarDatos\obj\Debug\ConectarDatos.dll
+D:\Sistemas\WebApi\ConectarDatos\obj\Debug\ConectarDatos.pdb
