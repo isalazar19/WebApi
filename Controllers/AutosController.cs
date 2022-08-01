@@ -31,5 +31,21 @@ namespace WebApi.Controllers
                 return inverntarioEntities.Autos.FirstOrDefault(e => e.Id == id);
             }
         }
+
+        //Graba Nuevos Registros en la base de datos -autos
+        [HttpPost]
+        public IHttpActionResult AgregaAutos([FromBody]Autos autos)
+        {
+            if (ModelState.IsValid)
+            {
+                dbContext.Autos.Add(autos);
+                dbContext.SaveChanges();
+                return Ok(autos);
+            }
+            else
+            {
+                return BadRequest();
+            }
+        }
     }
 }
